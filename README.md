@@ -25,7 +25,7 @@
 
 - [x] Following / For You 切換暫停(切換回去要從離開的進度繼續播放)
 
-- [x]過場圖片 遮罩(封面圖) 功能，如影片所示意 https://imgur.com/a/IXuQz4j
+- [x] 過場圖片 遮罩(封面圖) 功能，如影片所示意 https://imgur.com/a/IXuQz4j
 
 
 ## 加分題答案 
